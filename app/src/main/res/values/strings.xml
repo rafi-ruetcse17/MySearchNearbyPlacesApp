@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchIT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="B_search">Search</string>
+    <string name="B_hospitals">Hospitals</string>'
+    <string name="B_schools">Schools</string>
+    <string name="B_restaurants">Restaurants</string>
+    <string name="Name">Name</string>
+
+</resources>
